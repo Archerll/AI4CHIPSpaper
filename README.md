@@ -1,2 +1,7 @@
 # Awesome AI for Chips/VLSI/EDA Papers
-This repository contains a reading list of papers on AI in chip design. These papers are primarily categorized by chip design task type.
+
+This repository features a curated reading list of papers on AI for Chips/Very Large Scale Integration (VLSI)/Electronic Design Automation (EDA). The papers are primarily categorized by chip design task type.We're continuously improving this repository. In addition to papers accepted by top-tier conferences and journals, we also include the latest research from arXiv.
+If you find any relevant papers that should be added, please feel free to submit a pull request (PR) or open an issue.
+If you find this repository helpful, please consider giving it a 🌟!
+
+This repository is built upon the survey "A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA" published by Professor Xie Zhiyao's research group.
