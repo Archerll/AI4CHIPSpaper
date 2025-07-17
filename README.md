@@ -7,3 +7,28 @@ If you find any relevant papers that should be added, please feel free to submit
 If you find this repository helpful, please consider giving it a 🌟!
 
 This repository is built upon the survey "A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA" published by Professor Xie Zhiyao's research group.
+
+<details><summary><h2 style="display: inline;">Survey & Benchmark.</h2></summary>
+
+Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
+-----|----|-----|-----|-----
+</details>
+
+<details><summary><h2 style="display: inline;">HLS</h2></summary>
+
+Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
+-----|----|-----|-----|-----
+</details>
+
+<details><summary><h2 style="display: inline;">RTL</h2></summary>
+
+Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
+-----|----|-----|-----|-----
+</details>
+
+<details><summary><h2 style="display: inline;">Verification & Debug</h2></summary>
+
+Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
+-----|----|-----|-----|-----
+</details>
+
