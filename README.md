@@ -85,7 +85,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 2025-2-20|[Deeprtl](https://arxiv.org/pdf/2502.15832?)|ICLR 2025|Deeprtl: Bridging verilog understanding and generation with a unified representation model|
 2025-3-4|[CircuitEncoder](https://zhiyaoxie.com/files/ASPDAC25_CircuitEncoder.pdf)|ASP-DAC 2025|A self-supervised, pre-trained, and cross-stage-aligned circuit encoder provides a foundation for various design tasks|
 2025-3-19|[Openllm-rtl](https://arxiv.org/pdf/2503.15112)|ICCAD 2024|Openllm-rtl: Open dataset and benchmark for llm-aided design rtl generation|
-2025-5-4|[Circuitfusion](https://arxiv.org/pdf/2505.02168)|ICLR 2025|Circuitfusion: multimodal circuit representation learning for agile chip design|[code](https://github.com/hkust- zhiyao/CircuitFusion)
+2025-5-4|[Circuitfusion](https://arxiv.org/pdf/2505.02168)|ICLR 2025|Circuitfusion: multimodal circuit representation learning for agile chip design|[code](https://github.com/hkust-zhiyao/CircuitFusion)
 
 </details>
 
