@@ -14,6 +14,14 @@ This repository is built upon the survey "A Survey of Circuit Foundation Model: 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
 2023-10|[LLM4SS](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10596266)|Access|LLM for SoC Security: A Paradigm Shift|
+2023-12-28|[Llm4eda](https://arxiv.org/pdf/2401.12224)|arXiv|Llm4eda: Emerging progress in large language models for electronic design automation|
+2024-03|[LCM](https://link.springer.com/content/pdf/10.1007/s11432-024-4155-7.pdf)|SCIS 2024|Large circuit models: opportunities and challenges.|
+2024|[LFCD]()|ISVLSI 2024|Llms and the future of chip design: Unveiling security risks and building trust|
+2024-06|[llm-guided](https://dl.acm.org/doi/abs/10.1145/3649476.3660393)|GLSVLSI 2024|Navigating soc security landscape on llm-guided paths|
+2024-10-24|[Llm-aided](https://arxiv.org/pdf/2410.18582)|arXiv|Llm-aided efficient hardware design automation|
+2024-12|[HdvLlm](https://www.proquest.com/openview/2b7fbab1fe9882dce439c2d611ad0285/1?pq-origsite=gscholar&cbl=2032404)|Electronics 2025|Hardware design and verification with large language models: A scoping review, challenges, and open issues|
+2025-01|[LLM4EDA](https://dl.acm.org/doi/pdf/10.1145/3715324)|TODAES 2025|A survey of research in large language models for electronic design automation|
+2025-03|[FoundationAI](https://arxiv.org/pdf/2504.03711)|arXiv|A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA|
 
 </details>
 
