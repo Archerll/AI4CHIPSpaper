@@ -32,3 +32,26 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
 </details>
 
+<details><summary><h2 style="display: inline;">Security</h2></summary>
+
+Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
+-----|----|-----|-----|-----
+</details>
+
+<details><summary><h2 style="display: inline;">Architecture</h2></summary>
+
+Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
+-----|----|-----|-----|-----
+</details>
+
+<details><summary><h2 style="display: inline;">Flow & Layout</h2></summary>
+
+Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
+-----|----|-----|-----|-----
+</details>
+
+<details><summary><h2 style="display: inline;">Analog</h2></summary>
+
+Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
+-----|----|-----|-----|-----
+</details>
