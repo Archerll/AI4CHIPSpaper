@@ -60,7 +60,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 2024-1-12|[AttenSink](https://arxiv.org/pdf/2401.08683)|arxiv|Zero-shot rtl code generation with attention sink augmented large language models|
 2024-2-5|[MCTS](https://arxiv.org/pdf/2402.03289)|arxiv|Make every move count: Llm-based high-quality rtl code generation using mcts|
 2024-2-23|[Betterv](https://arxiv.org/pdf/2402.03375)|arxiv|Betterv: Controlled verilog generation with discriminative guidance|
-2024-3-11|En2asic|arxiv|From english to asic: Hardware implementation with large language model|
+2024-3-11|[En2asic](https://arxiv.org/pdf/2403.07039?)|arxiv|From english to asic: Hardware implementation with large language model|
 2024-3-17|[Dayn](https://dl.acm.org/doi/pdf/10.1145/3649329.3657356)|DAC 2024|Data is all you need: Finetuning llms for chip design via an automated design-data augmentation framework|
 2024-4-12|[Creativeval](https://arxiv.org/pdf/2404.08806)|LAD 2024|Creativeval: Evaluating creativity of llm-based hardware code generation|[code](https://github.com/matthewdelorenzo/CreativEval/)
 2024-5-27|[Rtl-repo](https://arxiv.org/pdf/2405.17378?)|LAD 2024|Rtl-repo: A benchmark for evaluating llms on large-scale rtl design projects|[code](https://github.com/AUCOHL/RTL-Repo)
@@ -78,7 +78,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 2024-9-9|[CoDes](https://dl.acm.org/doi/pdf/10.1145/3670474.3685966)|MLCAD 2024|Chain-of-descriptions: Improving code llms for vhdl code generation and summarization|
 2024-9-19|[Craftrtl](https://arxiv.org/pdf/2409.12993?)|ICLR 2025|Craftrtl: High-quality synthetic data generation for verilog code models with correct-by-construction non-textual representations and targeted code repair|
 2024-11-21|[AIVRIL2](https://arxiv.org/pdf/2412.04485)|DATE 2024|Eda-aware rtl generation with large language models|
-2024-11-25|[Opl4gpt](OPL4GPT: An Application Space Exploration of Optimal<br/>Programming Language for Hardware Design by LLM)|ASP-DAC 2025|Opl4gpt: An application space exploration of optimal programming language for hardware design by llm|
+2024-11-25|[Opl4gpt](https://eprint.iacr.org/2024/1905.pdf)|ASP-DAC 2025|Opl4gpt: An application space exploration of optimal programming language for hardware design by llm|
 2024-12-10|[Mage](https://arxiv.org/pdf/2412.07822)|arxiv|Mage: A multi-agent engine for automated rtl code generation|
 2025-1-6|[Rtlsquad](https://arxiv.org/pdf/2501.05470?)|arxiv|Rtlsquad: Multi-agent based interpretable rtl design|
 2025-2-15|[Lintllm](https://arxiv.org/pdf/2502.10815)|arxiv|Lintllm: An open-source verilog linting framework based on large language models|
