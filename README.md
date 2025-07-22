@@ -92,6 +92,19 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
+2023-09-18|[AutoSVA2](https://arxiv.org/pdf/2309.09437)|arxiv|Using LLMs to facilitate formal verification of RTL|
+2024-02-01|[AssertLLM](https://arxiv.org/pdf/2402.00386)|ASP-DAC 2025|AssertLLM: Generating and evaluating hardware verification assertions from design specifications via multi-LLMs.|[AssertLLM](https://github.com/hkust-zhiyao/AssertLLM)
+2024-01-31|[ChIRAAG](https://arxiv.org/pdf/2402.00093)|ISVLSI 2024|Chiraag: Chatgpt informed rapid and automated assertion generation.|[ChIRAAG](https://github.com/karthikmaddala/ChIRAAG)
+2024-11-25|[UVLLM](https://arxiv.org/pdf/2411.16238)|arxiv|Uvllm: An automated universal rtl verification framework using llms.|
+2023-10-06|[LLM4DV](https://arxiv.org/pdf/2310.04535)|FCCM 2025|Llm4dv: Using large language models for hardware test stimuli generation.|[ml4dv](https://github.com/ZixiBenZhang/ml4dv)
+2024-06-03|[VerilogReader](https://arxiv.org/pdf/2406.04373?)|LAD 2024|Verilogreader: Llm-aided hardware test generation|
+2024-10-15|[FVEval](https://arxiv.org/pdf/2410.23299)|DATE 2025|Fveval: Understanding language model capabilities in formal verification of digital hardware|[FVEval](https://github.com/NVlabs/FVEval)
+2024-06-26|[AssertionBench](https://arxiv.org/pdf/2406.18627)|arxiv|Assertionbench: A benchmark to evaluate large-language models for assertion generation|
+2023-06-03|[NL2SVA](https://openreview.net/pdf?id=FKH8qCuM44)|DAV 2023|Towards improving verification productivity with circuitaware translation of natural language to systemverilog assertions|
+||VTS 2024|Domain-adapted llms for vlsi design and verification: A case study on formal verification|
+2024-05-31|[VeriAssist](https://arxiv.org/pdf/2406.00115)|arxiv|Towards llm-powered verilog rtl assistant: Self-verification and self-correction|
+2024-06-10||DATE 2024|Llm-based processor verification: A case study for neuronnorphic processor.|
+2024-06-24|[Latg](https://arxiv.org/pdf/2406.17132)|arxiv|Llm-aided testbench generation and bug detection for finite-state machines.|
 
 </details>
 
@@ -99,13 +112,18 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
+||||
+||||
+||||
 
-</details>
+​	</details>
 
 <details><summary><h2 style="display: inline;">Architecture</h2></summary>
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
+2023-9-19|[GPT4AIGChip](https://arxiv.org/pdf/2309.10730)🔥|ICCAD 2023|GPT4AIGChip: Towards next-generation AI accelerator design automation via large language models.|
+2024-1-24|[SpecLLM](https://arxiv.org/pdf/2401.13266)|arxiv|SpecLLM: Exploring generation and review of vlsi design specification with large language model.|
 
 </details>
 
@@ -113,6 +131,19 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
+|        |            |                                                   |      
+      |        |            |                                                   |      
+      |        |            |                                                   |      
+      |        |            |                                                   |      
+      |        |            |                                                   |      
+      |        |            |                                                   |      
+      |        |            |                                                   |      
+      |        |            |                                                   |      
+      |        |            |                                                   |      
+      |        |            |                                                   |      
+      |        |            |                                                   |      
+      |        |            |                                                   |      
+      |        |            |                                                   |
 
 </details>
 
@@ -120,5 +151,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
+||||
+||||
+||||
 
 </details>
