@@ -122,6 +122,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
+2023-06-12|[LCDA](https://arxiv.org/pdf/2306.06923)|arxiv|On the viability of using LLMs for SW/HW co-design: An example in designing CiM DNN accelerators.|
+2023-07-17|[QGAS](https://arxiv.org/pdf/2307.08191)|arxiv|Unleashing the potential of LLMs for quantum computing: A study in quantum architecture design|
 2023-9-19|[GPT4AIGChip](https://arxiv.org/pdf/2309.10730)🔥|ICCAD 2023|GPT4AIGChip: Towards next-generation AI accelerator design automation via large language models.|
 2024-1-24|[SpecLLM](https://arxiv.org/pdf/2401.13266)|arxiv|SpecLLM: Exploring generation and review of vlsi design specification with large language model.|
 
