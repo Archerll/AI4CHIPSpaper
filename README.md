@@ -153,8 +153,14 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
-||||
-||||
-||||
+2023-12|[LADAC](https://www.techrxiv.org/doi/full/10.36227/techrxiv.170473941.10097233)||Ladac: Large language model-driven auto-designer for analog circuits|
+2024-05|[AnalogCoder](https://ojs.aaai.org/index.php/AAAI/article/view/32016)|AAAI 2025|Analogcoder: Analog circuit design via training-free code generation|[AnalogCoder](https://github.com/anonyanalog/AnalogCoder)
+2024-05|FLAG|ISCAS 2024|Flag: Formula-llm-based auto-generator for baseband hardware|
+2024-04-09|[ADO-LLM](https://dl.acm.org/doi/pdf/10.1145/3676536.3676816)|ISCAS 2024|Ado-llm: Analog design bayesian optimization with in-context learning of large language models|
+2024-07|[LaMAGIC](https://arxiv.org/pdf/2407.18269?)||Lamagic: Language-model-based topology generation for analog integrated circuits|
+2024-11|Artisan|DAC 2024|Artisan: Automated operational amplifier design via domain-specific large language model|
+2024-11-19|[LEDRO](https://arxiv.org/pdf/2411.12930)||Ledro: Llm-enhanced design space reduction and optimization for analog circuits|
+2024-12-17|[AnalogXpert](https://arxiv.org/abs/2412.19824)||Analogxpert: Automating analog topology synthesis by incorporating circuit design expertise into large language models|
+2025-02-28|[AnalogGenie](https://arxiv.org/pdf/2503.00205)|ICLR 2025|Analoggenie: A generative engine for automatic discovery of analog circuit topologies|[AnalogGenie](https://github.com/xz-group/AnalogGenie)
 
 </details>
