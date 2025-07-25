@@ -119,9 +119,16 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
-||||
-||||
-||||
+2021-12-03|[EZSVR](https://arxiv.org/pdf/2112.02125)🔥|SP 2023|Examining zero-shot vulnerability repair with large language models|
+2023-02||TIFS 2024|On hardware security bug code fixes by prompting large language models|
+2023-06-24|[SAbyLLM](https://arxiv.org/pdf/2306.14027)|TIFS 2024|(security) assertions by large language models|
+2023-08-14|[DIVAS](https://arxiv.org/pdf/2308.06932)|arxiv|Divas: An llm-based end-to-end framework for soc security analysis and policy-based protection|
+2023-08-21|[NSPG](https://arxiv.org/pdf/2308.11042)|arxiv|Unlocking hardware security assurance: The potential of llms|
+2023-10-10|[SCAR](https://arxiv.org/pdf/2310.06257)|TVLSI 2024|Scar: Power side-channel analysis at rtl level|
+2023-11-26|Netlist Whisperer|ASHES 2023|Netlist whisperer: Ai and nlp fight circuit leakage!|
+2024-05|[SecRT-LLM](https://www.researchgate.net/profile/Dipayan-Saha/publication/381234667_Empowering_Hardware_Security_with_LLM_The_Development_of_a_Vulnerable_Hardware_Database/links/675936c2138b414414d56fcb/Empowering-Hardware-Security-with-LLM-The-Development-of-a-Vulnerable-Hardware-Database.pdf)|HOST 2024|Empowering hardware security with llm: The development of a vulnerable hardware database|
+2024-05|[Self-HWDebug](https://arxiv.org/pdf/2405.12347)|ISVLSI 2024|Self-hwdebug: Automation of llm self-instructing for hardware security verification|
+ 2024-10-01 | [llmrag](https://agra.informatik.uni-bremen.de/doc/konf/LAD2024_KQ.pdf) | LAD 2025    | From bugs to fixes: Hdl bug identification and patching using llms and rag |
 
 ​	</details>
 
@@ -140,19 +147,13 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
-|        |            |                                                   |      
-      |        |            |                                                   |      
-      |        |            |                                                   |      
-      |        |            |                                                   |      
-      |        |            |                                                   |      
-      |        |            |                                                   |      
-      |        |            |                                                   |      
-      |        |            |                                                   |      
-      |        |            |                                                   |      
-      |        |            |                                                   |      
-      |        |            |                                                   |      
-      |        |            |                                                   |      
-      |        |            |                                                   |
+2023-08| ChatEDA [216]                                                | MLCAD 2023 | Chateda: A large language model powered autonomous agent for eda | [ChatEDAv1](https://github.com/wuhy68/ChatEDAv1) 
+ 2024-07    | RAG-EDA                                                      |            | Customized retrieval augmented generation and benchmarking for eda tool documentation qa | [RAG-EDA](https://github.com/lesliepy99/RAG-EDA) 
+ 2024-12    | ChipAlign [221]                                              |            | Chipalign: Instruction alignment in large language models for chip design via geodesic interpolation |                                                  
+ 2024-05-24 | [LLM4Scldof](https://arxiv.org/pdf/2406.06549?)              | LAD 2024   | Large language model (llm) for standard cell layout design optimization |                                                  
+ 2024-07-15 | [FabGPT](https://arxiv.org/pdf/2407.10810?)                  | ICCAD 2024 | Fabgpt: An efficient large multimodal model for complex wafer defect knowledge queries |                                                  
+ 2024-08-24 | two-[stage](https://ojs.aaai.org/index.php/AAAI/article/view/34479) | AAAI 2024  | Intelligent opc engineer assistant for semiconductor manufacturing |                                                  
+ 2024-11-28 | DRC-[Coder](https://dl.acm.org/doi/pdf/10.1145/3698364.3705347) | arxiv      | Drc-coder: Automated drc checker code generation using llm autonomous agent |                                                  
 
 </details>
 
