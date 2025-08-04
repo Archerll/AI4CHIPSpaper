@@ -140,6 +140,28 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 </details>
 
+<details><summary><h2 style="display: inline;">Netlist</h2></summary>
+
+Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
+-----|----|-----|-----|-----
+|Gamora|DAC 2023|Gamora: Graph learning based symbolic reasoning for large-scale boolean networks|
+|DeepGate|DAC 2022|DeepGate: Learning neural representations of logic gates|
+|DeepGate2|ICCAD 2023|DeepGate2: Functionality-aware circuit representation learning|
+|Deepgate4|ICLR 2025|Deepgate4: Efficient and effective representation learning for circuit design at scale|
+||DAC 2024|Less is more: Hop-wise graph attention for scalable and generalizable learning on circuits|
+|Polargate|ICCAD 2024|Polargate: Breaking the functionality representation bottleneck of and-inverter graph neural network|
+|Deepseq|DATE|Deepseq: Deep sequential circuit learning. In Design, Automation and Test in Europe Conference and Exhibition|
+|Deepseq2|ASP-DAC 2025|Deepseq2: Enhanced sequential circuit learning with disentangled representations|
+| Fgnn                                                         |DAC 2022|Functionality matters in netlist representation learning|
+| Fgnn2                                                        |TCAD 2024|Fgnn2: A powerful pre-training framework for learning the logic functionality of circuits|
+2025-3-4| [CircuitEncoder](https://zhiyaoxie.com/files/ASPDAC25_CircuitEncoder.pdf) |ASP-DAC 2025|A self-supervised, pre-trained, and cross-stage-aligned circuit encoder provides a foundation for various design tasks|
+| MGVGA                                                        |ICLR 2025|Circuit representation learning with masked gatemodeling and verilog-aigalignment|
+| Nettag                                                       |DAC 2025|Nettag: A multimodal rtl-and-layoutaligned netlist foundation model via text-attributed graph|
+| Deepcell                                                     |arxiv|Deepcell: Multiview representation learning for post-mapping netlists|
+|                                                              |||
+
+</details>
+
 <details><summary><h2 style="display: inline;">Flow & Layout</h2></summary>
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
