@@ -21,7 +21,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 2024-10-24|[Llm-aided](https://arxiv.org/pdf/2410.18582)|![suervey](https://img.shields.io/badge/-suervey-brightgreen) |arXiv|Llm-aided efficient hardware design automation|
 2024-12|[HdvLlm](https://www.proquest.com/openview/2b7fbab1fe9882dce439c2d611ad0285/1?pq-origsite=gscholar&cbl=2032404)|![suervey](https://img.shields.io/badge/-suervey-brightgreen) |Electronics 2025|Hardware design and verification with large language models: A scoping review, challenges, and open issues|
 2025-01|[LLM4EDA](https://dl.acm.org/doi/pdf/10.1145/3715324)|![suervey](https://img.shields.io/badge/-suervey-brightgreen) |TODAES 2025|A survey of research in large language models for electronic design automation|
-2025-03|[FoundationAI](https://arxiv.org/pdf/2504.03711)|![suervey](https://img.shields.io/badge/-suervey-brightgreen) |arXiv|A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA|
+2025-03|[🌟FoundationAI](https://arxiv.org/pdf/2504.03711)|![suervey](https://img.shields.io/badge/-suervey-brightgreen) |arXiv|A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA|
 
 </details>
 
