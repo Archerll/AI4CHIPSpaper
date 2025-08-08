@@ -83,7 +83,10 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 2025-2-15|[Lintllm](https://arxiv.org/pdf/2502.10815)|arxiv|Lintllm: An open-source verilog linting framework based on large language models|
 2025-2-20|[Deeprtl](https://arxiv.org/pdf/2502.15832?)|ICLR 2025|Deeprtl: Bridging verilog understanding and generation with a unified representation model|
 2025-3-4|[CircuitEncoder](https://zhiyaoxie.com/files/ASPDAC25_CircuitEncoder.pdf)|ASP-DAC 2025|A self-supervised, pre-trained, and cross-stage-aligned circuit encoder provides a foundation for various design tasks|
+2025-03-18|[VFlow](https://arxiv.org/pdf/2504.03723)||VFlow: Discovering Optimal Agentic Workflows for Verilog Generation|
 2025-3-19|[Openllm-rtl](https://arxiv.org/pdf/2503.15112)|ICCAD 2024|Openllm-rtl: Open dataset and benchmark for llm-aided design rtl generation|
+2025-03-27|[RocketPPA](https://arxiv.org/pdf/2503.21971)||RocketPPA: Code-Level Power, Performance, and Area Prediction via LLM and Mixture of Experts|
+2025-03-30|[HDLCORE](https://arxiv.org/pdf/2503.16528)||HDLCORE: A TRAINING-FREE FRAMEWORK FOR MIT-IGATING HALLUCINATIONS IN LLM-GENERATED HDL|
 2025-5-4|[Circuitfusion](https://arxiv.org/pdf/2505.02168)|ICLR 2025|Circuitfusion: multimodal circuit representation learning for agile chip design|[CircuitFusion](https://github.com/hkust-zhiyao/CircuitFusion)
 
 </details>
@@ -110,6 +113,10 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 2024-10-15|[FVEval](https://arxiv.org/pdf/2410.23299)|DATE 2025|Fveval: Understanding language model capabilities in formal verification of digital hardware|[FVEval](https://github.com/NVlabs/FVEval)
 2024-11-25|[UVLLM](https://arxiv.org/pdf/2411.16238)|arxiv|Uvllm: An automated universal rtl verification framework using llms.|
 2024-05-29||VTS 2024|Domain-adapted llms for vlsi design and verification: A case study on formal verification|
+2025-06-13|[PRO-V](https://arxiv.org/pdf/2506.12200)||PRO-V: An Efficient Program Generation Multi-Agent System for Automatic RTL Verification|
+
+
+
 </details>
 
 <details><summary><h2 style="display: inline;">Security</h2></summary>
