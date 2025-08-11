@@ -151,13 +151,13 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
-            | Gamora                                                       | DAC 2023     |Gamora: Graph learning based symbolic reasoning for large-scale boolean networks|
-            | DeepGate                                                     | DAC 2022     |DeepGate: Learning neural representations of logic gates|
-            | DeepGate2                                                    | ICCAD 2023   |DeepGate2: Functionality-aware circuit representation learning|
-            | Deepgate4                                                    | ICLR 2025    |Deepgate4: Efficient and effective representation learning for circuit design at scale|
-|                                                              | DAC 2024     |Less is more: Hop-wise graph attention for scalable and generalizable learning on circuits|
-            | Polargate                                                    | ICCAD 2024   |Polargate: Breaking the functionality representation bottleneck of and-inverter graph neural network|
-            | Deepseq                                                      | DATE         |Deepseq: Deep sequential circuit learning. In Design, Automation and Test in Europe Conference and Exhibition|
+| Gamora | DAC 2023     |Gamora: Graph learning based symbolic reasoning for large-scale boolean networks|
+| DeepGate | DAC 2022     |DeepGate: Learning neural representations of logic gates|
+| DeepGate2  | ICCAD 2023   |DeepGate2: Functionality-aware circuit representation learning|
+| Deepgate4   | ICLR 2025    |Deepgate4: Efficient and effective representation learning for circuit design at scale|
+|| DAC 2024     |Less is more: Hop-wise graph attention for scalable and generalizable learning on circuits|
+            | Polargate| ICCAD 2024   |Polargate: Breaking the functionality representation bottleneck of and-inverter graph neural network|
+            | Deepseq| DATE         |Deepseq: Deep sequential circuit learning. In Design, Automation and Test in Europe Conference and Exhibition|
             | Deepseq2                                                     | ASP-DAC 2025 |Deepseq2: Enhanced sequential circuit learning with disentangled representations|
             | Fgnn                                                         | DAC 2022     |Functionality matters in netlist representation learning|
             | Fgnn2                                                        | TCAD 2024    |Fgnn2: A powerful pre-training framework for learning the logic functionality of circuits|
