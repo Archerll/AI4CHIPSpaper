@@ -152,14 +152,14 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
 2021-11-26| [DeepGate](https://arxiv.org/pdf/2111.14616) | DAC 2022     |DeepGate: Learning neural representations of logic gates|
+2023-02-27| [Deepseq](https://arxiv.org/pdf/2302.13608) | DATE         |Deepseq: Deep sequential circuit learning. In Design, Automation and Test in Europe Conference and Exhibition|
 2023-03-14| [Gamora](https://arxiv.org/pdf/2303.08256) | DAC 2023     |Gamora: Graph learning based symbolic reasoning for large-scale boolean networks|
 2023-05-25| [DeepGate2](https://arxiv.org/pdf/2305.16373) | ICCAD 2023   |DeepGate2: Functionality-aware circuit representation learning|
 2025-01-23| [Deepgate4](https://arxiv.org/pdf/2502.01681?) | ICLR 2025    |Deepgate4: Efficient and effective representation learning for circuit design at scale|
 2024-03-02| [Less is more](https://arxiv.org/pdf/2403.01317) |DAC 2024|Less is more: Hop-wise graph attention for scalable and generalizable learning on circuits|
-| [Polargate](https://www.cse.cuhk.edu.hk/~byu/papers/C233-ICCAD2024-PolarGate.pdf) | ICCAD 2024   |Polargate: Breaking the functionality representation bottleneck of and-inverter graph neural network|
-2023-02-27| [Deepseq](https://arxiv.org/pdf/2302.13608) | DATE         |Deepseq: Deep sequential circuit learning. In Design, Automation and Test in Europe Conference and Exhibition|
+2025-04-09| [Polargate](https://www.cse.cuhk.edu.hk/~byu/papers/C233-ICCAD2024-PolarGate.pdf) | ICCAD 2024   |Polargate: Breaking the functionality representation bottleneck of and-inverter graph neural network|
 2024-11-01| [Deepseq2](https://dl.acm.org/doi/pdf/10.1145/3658617.3697594) | ASP-DAC 2025 |Deepseq2: Enhanced sequential circuit learning with disentangled representations|
-| [Fgnn](https://www.cse.cuhk.edu.hk/~byu/papers/C142-DAC2022-GCL.pdf) | DAC 2022     |Functionality matters in netlist representation learning|
+2022-8-23| [Fgnn](https://www.cse.cuhk.edu.hk/~byu/papers/C142-DAC2022-GCL.pdf) | DAC 2022     |Functionality matters in netlist representation learning|
 2025-01-01| [Fgnn2](https://www.cse.cuhk.edu.hk/~byu/papers/J119-TCAD2025-FGNN2.pdf) | TCAD 2024    |Fgnn2: A powerful pre-training framework for learning the logic functionality of circuits|
 2025-3-4| [CircuitEncoder](https://zhiyaoxie.com/files/ASPDAC25_CircuitEncoder.pdf) |ASP-DAC 2025|A self-supervised, pre-trained, and cross-stage-aligned circuit encoder provides a foundation for various design tasks|
 2025-2-18| [MGVGA](https://arxiv.org/pdf/2502.12732) | ICLR 2025    | Circuit representation learning with masked gatemodeling and verilog-aigalignment |
