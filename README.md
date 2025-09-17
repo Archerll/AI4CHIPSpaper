@@ -22,6 +22,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 2024-12|[HdvLlm](https://www.proquest.com/openview/2b7fbab1fe9882dce439c2d611ad0285/1?pq-origsite=gscholar&cbl=2032404)|![suervey](https://img.shields.io/badge/-suervey-brightgreen) |Electronics 2025|Hardware design and verification with large language models: A scoping review, challenges, and open issues|
 2025-01|[LLM4EDA](https://dl.acm.org/doi/pdf/10.1145/3715324)|![suervey](https://img.shields.io/badge/-suervey-brightgreen) |TODAES 2025|A survey of research in large language models for electronic design automation|
 2025-03|[🌟FoundationAI](https://arxiv.org/pdf/2504.03711)|![suervey](https://img.shields.io/badge/-suervey-brightgreen) |arXiv|A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA|
+2025-08|[LLMsEDA](https://arxiv.org/abs/2508.20030)|![suervey](https://img.shields.io/badge/-suervey-brightgreen) |arXiv|Large Language Models (LLMs) for Electronic Design Automation (EDA)|
 
 </details>
 
@@ -88,6 +89,9 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 2025-03-27|[RocketPPA](https://arxiv.org/pdf/2503.21971)||arxiv|RocketPPA: Code-Level Power, Performance, and Area Prediction via LLM and Mixture of Experts|
 2025-03-30|[HDLCORE](https://arxiv.org/pdf/2503.16528)||arxiv|HDLCORE: A TRAINING-FREE FRAMEWORK FOR MIT-IGATING HALLUCINATIONS IN LLM-GENERATED HDL|
 2025-5-4|[Circuitfusion](https://arxiv.org/pdf/2505.02168)||ICLR 2025|Circuitfusion: multimodal circuit representation learning for agile chip design|[CircuitFusion](https://github.com/hkust-zhiyao/CircuitFusion)
+|[OpenRTLSet:](https://ieeexplore.ieee.org/abstract/document/11106163/)|||OpenRTLSet: A Fully Open-Source Dataset for Large Language Model-based Verilog Module Design|
+|[EvoVerilog](https://arxiv.org/abs/2508.13156)||arxiv|EvoVerilog: Large Langugage Model Assisted Evolution of Verilog Code|
+|||||
 
 </details>
 
