@@ -91,7 +91,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 2025-5-4|[Circuitfusion](https://arxiv.org/pdf/2505.02168)||ICLR 2025|Circuitfusion: multimodal circuit representation learning for agile chip design|[CircuitFusion](https://github.com/hkust-zhiyao/CircuitFusion)
 |[OpenRTLSet:](https://ieeexplore.ieee.org/abstract/document/11106163/)|||OpenRTLSet: A Fully Open-Source Dataset for Large Language Model-based Verilog Module Design|
 |[EvoVerilog](https://arxiv.org/abs/2508.13156)||arxiv|EvoVerilog: Large Langugage Model Assisted Evolution of Verilog Code|
-|||||
+|[Spec2Doc2RTL](https://ieeexplore.ieee.org/abstract/document/11101140)||ISEDA|Spec2Doc2RTL: RTL Generation from Specification with Natural Language Representation|
 
 </details>
 
