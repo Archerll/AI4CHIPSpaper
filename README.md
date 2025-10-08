@@ -32,11 +32,12 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
 2023-10-28|[HARP](https://par.nsf.gov/servlets/purl/10539416)|ICCAD 2023|Robust GNN-based Representation Learning for HLS|
  2024-5-25  | [Synthai](https://arxiv.org/pdf/2405.16072?)                 | arXiv        | Synthai: A multi agent generative ai framework for automated modular hls design generation. |
+2024-6-13|[ProgSG](https://dl.acm.org/doi/pdf/10.1145/3670474.3685952)|MLCAD 2024|Cross-modality program representation learning for electronic design automation with high-level synthesis.|
  2024-08-13 | [Hlspilot](https://dl.acm.org/doi/pdf/10.1145/3676536.3676781) | ICCAD 2024   | Hlspilot: Llm-based high-level synthesis                     |
  2024-8-19  | [LLMs4HLS](https://dl.acm.org/doi/pdf/10.1145/3676536.3699507) | ICCAD 2024   | Are llms any good for high-level synthesis?                  |
  2024-11-29 | [C2hlsc](https://dl.acm.org/doi/pdf/10.1145/3734524)         | TODAES 2024  | C2hlsc: Leveraging large language models to bridge the software-tohardware design gap |
 2025-2-19|[LLM-assisted-HLS](https://dl.acm.org/doi/pdf/10.1145/3658617.3697616)|ASP-DAC 2025|Exploring code language models for automated hls-based hardware generation: Benchmark, infrastructure and analysis|
-2024-6-13|[ProgSG](https://dl.acm.org/doi/pdf/10.1145/3670474.3685952)|MLCAD 2024|Cross-modality program representation learning for electronic design automation with high-level synthesis.|
+2025-7-1|[ChatHLS](https://arxiv.org/pdf/2507.00642)|arXiv|ChatHLS: Towards Systematic Design Automation and Optimization for High-Level Synthesis|
 
 </details>
 
