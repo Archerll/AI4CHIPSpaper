@@ -80,7 +80,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 2024-9-19|[Craftrtl](https://arxiv.org/pdf/2409.12993?)||ICLR 2025|Craftrtl: High-quality synthetic data generation for verilog code models with correct-by-construction non-textual representations and targeted code repair|[craftrtl](https://github.com/nvlabs/craftrtl)
 2024-11-21|[AIVRIL2](https://arxiv.org/pdf/2412.04485)||DATE 2024|Eda-aware rtl generation with large language models|
 2024-11-25|[Opl4gpt](https://eprint.iacr.org/2024/1905.pdf)||ASP-DAC 2025|Opl4gpt: An application space exploration of optimal programming language for hardware design by llm|
-2024-12-10|[Mage](https://arxiv.org/pdf/2412.07822)||arxiv|Mage: A multi-agent engine for automated rtl code generation|[MAGE](https://github.com/stable-lab/MAGE)
+2024-12-10|[Mage](https://arxiv.org/pdf/2412.07822)||DAC 2025|Mage: A multi-agent engine for automated rtl code generation|[MAGE](https://github.com/stable-lab/MAGE)
 2025-1-6|[Rtlsquad](https://arxiv.org/pdf/2501.05470?)||arxiv|Rtlsquad: Multi-agent based interpretable rtl design|
 2025-2-15|[Lintllm](https://arxiv.org/pdf/2502.10815)||arxiv|Lintllm: An open-source verilog linting framework based on large language models|
 2025-2-20|[Deeprtl](https://arxiv.org/pdf/2502.15832?)||ICLR 2025|Deeprtl: Bridging verilog understanding and generation with a unified representation model|
@@ -90,9 +90,9 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 2025-03-27|[RocketPPA](https://arxiv.org/pdf/2503.21971)||arxiv|RocketPPA: Code-Level Power, Performance, and Area Prediction via LLM and Mixture of Experts|
 2025-03-30|[HDLCORE](https://arxiv.org/pdf/2503.16528)||arxiv|HDLCORE: A TRAINING-FREE FRAMEWORK FOR MIT-IGATING HALLUCINATIONS IN LLM-GENERATED HDL|
 2025-5-4|[Circuitfusion](https://arxiv.org/pdf/2505.02168)||ICLR 2025|Circuitfusion: multimodal circuit representation learning for agile chip design|[CircuitFusion](https://github.com/hkust-zhiyao/CircuitFusion)
-|[OpenRTLSet:](https://ieeexplore.ieee.org/abstract/document/11106163/)|||OpenRTLSet: A Fully Open-Source Dataset for Large Language Model-based Verilog Module Design|
-|[EvoVerilog](https://arxiv.org/abs/2508.13156)||arxiv|EvoVerilog: Large Langugage Model Assisted Evolution of Verilog Code|
-|[Spec2Doc2RTL](https://ieeexplore.ieee.org/abstract/document/11101140)||ISEDA|Spec2Doc2RTL: RTL Generation from Specification with Natural Language Representation|
+2025-5-9|[Spec2Doc2RTL](https://ieeexplore.ieee.org/abstract/document/11101140)||ISEDA|Spec2Doc2RTL: RTL Generation from Specification with Natural Language Representation|
+2025-6-26|[OpenRTLSet](https://ieeexplore.ieee.org/abstract/document/11106163/)||ICLAD 2025|OpenRTLSet: A Fully Open-Source Dataset for Large Language Model-based Verilog Module Design|
+2025-6-26|[EvoVerilog](https://arxiv.org/abs/2508.13156)||arxiv|EvoVerilog: Large Langugage Model Assisted Evolution of Verilog Code|
 
 </details>
 
