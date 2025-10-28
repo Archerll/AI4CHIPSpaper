@@ -78,10 +78,11 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 2024-8-20|[ReVerilogeval](https://arxiv.org/pdf/2408.11053v1)||arxiv|Revisiting verilogeval: Newer llms, in-context learning, and specification-to-rtl tasks|
 2024-9-9|[CoDes](https://dl.acm.org/doi/pdf/10.1145/3670474.3685966)||MLCAD 2024|Chain-of-descriptions: Improving code llms for vhdl code generation and summarization|
 2024-9-19|[Craftrtl](https://arxiv.org/pdf/2409.12993?)||ICLR 2025|Craftrtl: High-quality synthetic data generation for verilog code models with correct-by-construction non-textual representations and targeted code repair|[craftrtl](https://github.com/nvlabs/craftrtl)
-2024-11-21|[AIVRIL2](https://arxiv.org/pdf/2412.04485)||DATE 2024|Eda-aware rtl generation with large language models|
+2024-11-21|[AIVRIL2](https://arxiv.org/pdf/2412.04485)||DATE 2025|Eda-aware rtl generation with large language models|
 2024-11-25|[Opl4gpt](https://eprint.iacr.org/2024/1905.pdf)||ASP-DAC 2025|Opl4gpt: An application space exploration of optimal programming language for hardware design by llm|
 2024-12-10|[Mage](https://arxiv.org/pdf/2412.07822)||DAC 2025|Mage: A multi-agent engine for automated rtl code generation|[MAGE](https://github.com/stable-lab/MAGE)
 2025-1-6|[Rtlsquad](https://arxiv.org/pdf/2501.05470?)||arxiv|Rtlsquad: Multi-agent based interpretable rtl design|
+2025-01-09|[HaVen](https://arxiv.org/pdf/2501.04908)||DATE 2025|HaVen: Hallucination-Mitigated LLM for Verilog Code Generation Aligned with HDL Engineers|
 2025-2-15|[Lintllm](https://arxiv.org/pdf/2502.10815)||arxiv|Lintllm: An open-source verilog linting framework based on large language models|
 2025-2-20|[Deeprtl](https://arxiv.org/pdf/2502.15832?)||ICLR 2025|Deeprtl: Bridging verilog understanding and generation with a unified representation model|
 2025-3-4|[CircuitEncoder](https://zhiyaoxie.com/files/ASPDAC25_CircuitEncoder.pdf)||ASP-DAC 2025|A self-supervised, pre-trained, and cross-stage-aligned circuit encoder provides a foundation for various design tasks|
@@ -91,8 +92,13 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 2025-03-30|[HDLCORE](https://arxiv.org/pdf/2503.16528)||arxiv|HDLCORE: A TRAINING-FREE FRAMEWORK FOR MIT-IGATING HALLUCINATIONS IN LLM-GENERATED HDL|
 2025-5-4|[Circuitfusion](https://arxiv.org/pdf/2505.02168)||ICLR 2025|Circuitfusion: multimodal circuit representation learning for agile chip design|[CircuitFusion](https://github.com/hkust-zhiyao/CircuitFusion)
 2025-5-9|[Spec2Doc2RTL](https://ieeexplore.ieee.org/abstract/document/11101140)||ISEDA|Spec2Doc2RTL: RTL Generation from Specification with Natural Language Representation|
+2025-05-09|[FreeV](https://arxiv.org/pdf/2505.06096?)||DAC 2025|Free and Fair Hardware: A Pathway to Copyright  Infringement-Free Verilog Generation using LLMs|
 2025-6-26|[OpenRTLSet](https://ieeexplore.ieee.org/abstract/document/11106163/)||ICLAD 2025|OpenRTLSet: A Fully Open-Source Dataset for Large Language Model-based Verilog Module Design|
 2025-6-26|[EvoVerilog](https://arxiv.org/abs/2508.13156)||arxiv|EvoVerilog: Large Langugage Model Assisted Evolution of Verilog Code|
+|[LLM4GV](https://ieeexplore.ieee.org/document/10992751)||DATE 2025|LLM4GV: An LLM-Based Flexible Performance-Aware Framework for GEMM Verilog Generation|
+|||DATE 2025|Improving LLM-Based Verilog Code Generation with Data Augmentation and RL|
+|[VToT](https://ieeexplore.ieee.org/document/10993029)||DATE 2025|VToT: Automatic Verilog Generation via LLMs with Tree of Thoughts Prompting|
+|||||
 
 </details>
 
@@ -119,6 +125,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 2024-11-25|[UVLLM](https://arxiv.org/pdf/2411.16238)|arxiv|Uvllm: An automated universal rtl verification framework using llms.|
 2024-05-29||VTS 2024|Domain-adapted llms for vlsi design and verification: A case study on formal verification|
 2025-06-13|[PRO-V](https://arxiv.org/pdf/2506.12200)||PRO-V: An Efficient Program Generation Multi-Agent System for Automatic RTL Verification|
+|[CorrectBench](https://ieeexplore.ieee.org/document/10992873)|DATE 2025|CorrectBench: Automatic Testbench Generation with Functional Self-Correction using LLMs for HDL Design|[CorrectBench](https://github.com/AutoBench/CorrectBench)
+||||
 
 
 
@@ -138,6 +146,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 2024-05|[SecRT-LLM](https://www.researchgate.net/profile/Dipayan-Saha/publication/381234667_Empowering_Hardware_Security_with_LLM_The_Development_of_a_Vulnerable_Hardware_Database/links/675936c2138b414414d56fcb/Empowering-Hardware-Security-with-LLM-The-Development-of-a-Vulnerable-Hardware-Database.pdf)|HOST 2024|Empowering hardware security with llm: The development of a vulnerable hardware database|
 2024-05|[Self-HWDebug](https://arxiv.org/pdf/2405.12347)|ISVLSI 2024|Self-hwdebug: Automation of llm self-instructing for hardware security verification|
  2024-10-01 | [llmrag](https://agra.informatik.uni-bremen.de/doc/konf/LAD2024_KQ.pdf) | LAD 2025    | From bugs to fixes: Hdl bug identification and patching using llms and rag |
+  | [RTL-Breaker](https://ieeexplore.ieee.org/document/10993260) | DATE 2025 | RTL-Breaker: Assessing the Security of LLMs Against Backdoor Attacks on HDL Code Generation |
 
 ​	</details>
 
@@ -169,11 +178,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 2025-2-18| [MGVGA](https://arxiv.org/pdf/2502.12732) | ICLR 2025    | Circuit representation learning with masked gatemodeling and verilog-aigalignment |
 2025-3-4| [CircuitEncoder](https://zhiyaoxie.com/files/ASPDAC25_CircuitEncoder.pdf) |ASP-DAC 2025|A self-supervised, pre-trained, and cross-stage-aligned circuit encoder provides a foundation for various design tasks|
 2025-04-09| [Polargate](https://www.cse.cuhk.edu.hk/~byu/papers/C233-ICCAD2024-PolarGate.pdf) | ICCAD 2024   |Polargate: Breaking the functionality representation bottleneck of and-inverter graph neural network|
-2025-04-12| [Nettag](https://arxiv.org/pdf/2504.09260) | DAC 2025     | Nettag: A multimodal rtl-and-layoutaligned netlist foundation model via text-attributed graph |
- 2025-04-12 |[NetTAG](https://arxiv.org/pdf/2504.09260)|arxiv|NetTAG: A Multimodal RTL-and-Layout-Aligned Netlist Foundation Model via Text-Attributed Graph|
+2025-04-12| [NetTAG](https://arxiv.org/pdf/2504.09260) | DAC 2025     | Nettag: A multimodal rtl-and-layoutaligned netlist foundation model via text-attributed graph |
  2025-04-13 |[GenEDA](https://arxiv.org/pdf/2504.09485?)|arxiv|GenEDA: Unleashing Generative Reasoning on Netlist via Multimodal Encoder-Decoder Aligned Foundation Model|
-||||
-
 </details>
 
 <details><summary><h2 style="display: inline;">Flow & Layout</h2></summary>
@@ -202,6 +208,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 2024-11|Artisan|DAC 2024|Artisan: Automated operational amplifier design via domain-specific large language model|
 2024-11-19|[LEDRO](https://arxiv.org/pdf/2411.12930)||Ledro: Llm-enhanced design space reduction and optimization for analog circuits|
 2024-12-17|[AnalogXpert](https://arxiv.org/abs/2412.19824)||Analogxpert: Automating analog topology synthesis by incorporating circuit design expertise into large language models|
+2025-01-14|[LayoutCopilot](https://ieeexplore.ieee.org/document/10841395)|TCAD 2025|LayoutCopilot: An LLM-Powered Multiagent Collaborative Framework for Interactive Analog Layout Design.|
 2025-02-28|[AnalogGenie](https://arxiv.org/pdf/2503.00205)|ICLR 2025|Analoggenie: A generative engine for automatic discovery of analog circuit topologies|[AnalogGenie](https://github.com/xz-group/AnalogGenie)
 
 </details>
