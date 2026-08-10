@@ -1,9 +1,11 @@
+
+
 # Awesome AI for Chips/VLSI/EDA Papers
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 
-This repository features a curated reading list of papers on AI for Chips/Very Large Scale Integration (VLSI)/Electronic Design Automation (EDA). The papers are primarily categorized by chip design task type.We're continuously improving this repository. In addition to papers accepted by top-tier conferences and journals, we also include the latest research from arXiv.
+This repository features a curated reading list of papers on AI for Chips/Very Large Scale Integration (VLSI)/Electronic Design Automation (EDA). The papers are primarily categorized by chip design task type. We're continuously improving this repository. In addition to papers accepted by top-tier conferences and journals, we also include the latest research from arXiv.
 If you find any relevant papers that should be added, please feel free to submit a pull request (PR) or open an issue.
 If you find this repository helpful, please consider giving it a 🌟!
 
@@ -212,6 +214,3 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 2025-02-28|[AnalogGenie](https://arxiv.org/pdf/2503.00205)|ICLR 2025|Analoggenie: A generative engine for automatic discovery of analog circuit topologies|[AnalogGenie](https://github.com/xz-group/AnalogGenie)
 
 </details>
-
-
-
