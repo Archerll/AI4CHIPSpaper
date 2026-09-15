@@ -23,7 +23,6 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 2025-01|[LLM4EDA](https://dl.acm.org/doi/pdf/10.1145/3715324)|![suervey](https://img.shields.io/badge/-suervey-brightgreen) |TODAES 2025|A survey of research in large language models for electronic design automation|
 2025-03|[🌟FoundationAI](https://arxiv.org/pdf/2504.03711)|![suervey](https://img.shields.io/badge/-suervey-brightgreen) |arXiv|A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA|
 2025-08|[LLMsEDA](https://arxiv.org/abs/2508.20030)|![suervey](https://img.shields.io/badge/-suervey-brightgreen) |arXiv|Large Language Models (LLMs) for Electronic Design Automation (EDA)|
-
 2026-01-05|[RTL-OPT](https://arxiv.org/abs/2601.01765)|![suervey](https://img.shields.io/badge/-suervey-brightgreen) |arXiv|A New Benchmark for the Appropriate Evaluation of RTL Code Optimization|
 2026-05-26|[AssertLLM2](https://arxiv.org/abs/2605.27472)|![suervey](https://img.shields.io/badge/-suervey-brightgreen) |arXiv|AssertLLM2: A Comprehensive LLM Benchmark for Assertion Generation from Design Specifications|
 2026-01-29|[ChipBench](https://arxiv.org/abs/2601.21448)|![suervey](https://img.shields.io/badge/-suervey-brightgreen) |arXiv|ChipBench: A Next-Step Benchmark for Evaluating LLM Performance in AI-Aided Chip Design|[ChipBench](https://github.com/zhongkaiyu/ChipBench)
@@ -54,7 +53,6 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
  2024-11-29 | [C2hlsc](https://dl.acm.org/doi/pdf/10.1145/3734524)         | TODAES 2024  | C2hlsc: Leveraging large language models to bridge the software-tohardware design gap |
 2025-2-19|[LLM-assisted-HLS](https://dl.acm.org/doi/pdf/10.1145/3658617.3697616)|ASP-DAC 2025|Exploring code language models for automated hls-based hardware generation: Benchmark, infrastructure and analysis|
 2025-7-1|[ChatHLS](https://arxiv.org/pdf/2507.00642)|arXiv|ChatHLS: Towards Systematic Design Automation and Optimization for High-Level Synthesis|
-
 2026-04-10|[DiffHLS](https://arxiv.org/abs/2604.09240)|arXiv|DiffHLS: Differential Learning for High-Level Synthesis QoR Prediction with GNNs and LLM Code Embeddings|
 2026-02-01|[Pragmas2Partners](https://arxiv.org/abs/2602.01401)|LATTE 2026|From Pragmas to Partners: A Symbiotic Evolution of Agentic High-Level Synthesis|
 2025-07-29|[HLSDebugger](https://arxiv.org/abs/2507.21485)|ICCAD 2025|HLSDebugger: Identification and Correction of Logic Bugs in HLS Code with LLM Solutions|[HLSDebugger](https://github.com/hkust-zhiyao/HLSDebugger)
@@ -115,11 +113,10 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 2025-05-09|[FreeV](https://arxiv.org/pdf/2505.06096?)||DAC 2025|Free and Fair Hardware: A Pathway to Copyright  Infringement-Free Verilog Generation using LLMs|
 2025-6-26|[OpenRTLSet](https://ieeexplore.ieee.org/abstract/document/11106163/)||ICLAD 2025|OpenRTLSet: A Fully Open-Source Dataset for Large Language Model-based Verilog Module Design|
 2025-6-26|[EvoVerilog](https://arxiv.org/abs/2508.13156)||arxiv|EvoVerilog: Large Langugage Model Assisted Evolution of Verilog Code|
-            | [LLM4GV](https://ieeexplore.ieee.org/document/10992751)      |      | DATE 2025     | LLM4GV: An LLM-Based Flexible Performance-Aware Framework for GEMM Verilog Generation |                                                              
-            |                                                              |      | DATE 2025     | Improving LLM-Based Verilog Code Generation with Data Augmentation and RL |                                                              
-            | [VToT](https://ieeexplore.ieee.org/document/10993029)        |      | DATE 2025     |VToT: Automatic Verilog Generation via LLMs with Tree of Thoughts Prompting|
+          | [LLM4GV](https://ieeexplore.ieee.org/document/10992751)      |      | DATE 2025     | LLM4GV: An LLM-Based Flexible Performance-Aware Framework for GEMM Verilog Generation |     
+          |                                                              |      | DATE 2025     | Improving LLM-Based Verilog Code Generation with Data Augmentation and RL |               
+          | [VToT](https://ieeexplore.ieee.org/document/10993029)        |      | DATE 2025     |VToT: Automatic Verilog Generation via LLMs with Tree of Thoughts Prompting|
 |[MetRex](https://dl.acm.org/doi/pdf/10.1145/3658617.3697625)||ASP- DAC 2025|MetRex: A Benchmark for Verilog Code Metric Reasoning Using LLMs|[MetRex](https://github.com/scale-lab/MetRex)
-
 2026-02-10|[ACE-RTL](https://arxiv.org/abs/2602.10218)||arXiv|ACE-RTL: When Agentic Context Evolution Meets RTL-Specialized LLMs|
 2025-11-25|[QiMeng-CRUX](https://arxiv.org/abs/2511.20099)||AAAI 2026|QiMeng-CRUX: Narrowing the Gap Between Natural Language and Verilog via Core Refined Understanding eXpression for Circuit Design|[QiMeng-CRUX](https://github.com/Taskii-Lei/QiMeng-CRUX-V)
 2026-06-06|[ROSUM-MCTS](https://arxiv.org/abs/2606.07925)||arXiv|ROSUM-MCTS: Monte Carlo Tree Search-Inspired HDL Code Summarization with Structural Rewards|
