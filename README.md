@@ -96,6 +96,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 2024-8-20|[ReVerilogeval](https://arxiv.org/pdf/2408.11053v1)||arxiv|Revisiting verilogeval: Newer llms, in-context learning, and specification-to-rtl tasks|
 2024-9-9|[CoDes](https://dl.acm.org/doi/pdf/10.1145/3670474.3685966)||MLCAD 2024|Chain-of-descriptions: Improving code llms for vhdl code generation and summarization|
 2024-9-19|[Craftrtl](https://arxiv.org/pdf/2409.12993?)||ICLR 2025|Craftrtl: High-quality synthetic data generation for verilog code models with correct-by-construction non-textual representations and targeted code repair|[craftrtl](https://github.com/nvlabs/craftrtl)
+2024-11-5|[MetRex](https://dl.acm.org/doi/pdf/10.1145/3658617.3697625)||ASP- DAC 2025|MetRex: A Benchmark for Verilog Code Metric Reasoning Using LLMs|[MetRex](https://github.com/scale-lab/MetRex)
 2024-11-21|[AIVRIL2](https://arxiv.org/pdf/2412.04485)||DATE 2025|Eda-aware rtl generation with large language models|
 2024-11-25|[Opl4gpt](https://eprint.iacr.org/2024/1905.pdf)||ASP-DAC 2025|Opl4gpt: An application space exploration of optimal programming language for hardware design by llm|
 2024-12-10|[Mage](https://arxiv.org/pdf/2412.07822)||DAC 2025|Mage: A multi-agent engine for automated rtl code generation|[MAGE](https://github.com/stable-lab/MAGE)
@@ -116,7 +117,6 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 2025-5-21| [LLM4GV](https://ieeexplore.ieee.org/document/10992751)      |      | DATE 2025     | LLM4GV: An LLM-Based Flexible Performance-Aware Framework for GEMM Verilog Generation |     
 2025-5-21| [Data Augmentation and RL](https://ieeexplore.ieee.org/abstract/document/10992897)   |      | DATE 2025     | Improving LLM-Based Verilog Code Generation with Data Augmentation and RL |       
 2025-5-21| [VToT](https://ieeexplore.ieee.org/document/10993029)        |      | DATE 2025     |VToT: Automatic Verilog Generation via LLMs with Tree of Thoughts Prompting|
-|[MetRex](https://dl.acm.org/doi/pdf/10.1145/3658617.3697625)||ASP- DAC 2025|MetRex: A Benchmark for Verilog Code Metric Reasoning Using LLMs|[MetRex](https://github.com/scale-lab/MetRex)
 2026-02-10|[ACE-RTL](https://arxiv.org/abs/2602.10218)||arXiv|ACE-RTL: When Agentic Context Evolution Meets RTL-Specialized LLMs|
 2025-11-25|[QiMeng-CRUX](https://arxiv.org/abs/2511.20099)||AAAI 2026|QiMeng-CRUX: Narrowing the Gap Between Natural Language and Verilog via Core Refined Understanding eXpression for Circuit Design|[QiMeng-CRUX](https://github.com/Taskii-Lei/QiMeng-CRUX-V)
 2026-06-06|[ROSUM-MCTS](https://arxiv.org/abs/2606.07925)||arXiv|ROSUM-MCTS: Monte Carlo Tree Search-Inspired HDL Code Summarization with Structural Rewards|
