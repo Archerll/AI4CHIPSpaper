@@ -113,9 +113,9 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 2025-05-09|[FreeV](https://arxiv.org/pdf/2505.06096?)||DAC 2025|Free and Fair Hardware: A Pathway to Copyright  Infringement-Free Verilog Generation using LLMs|
 2025-6-26|[OpenRTLSet](https://ieeexplore.ieee.org/abstract/document/11106163/)||ICLAD 2025|OpenRTLSet: A Fully Open-Source Dataset for Large Language Model-based Verilog Module Design|
 2025-6-26|[EvoVerilog](https://arxiv.org/abs/2508.13156)||arxiv|EvoVerilog: Large Langugage Model Assisted Evolution of Verilog Code|
-          | [LLM4GV](https://ieeexplore.ieee.org/document/10992751)      |      | DATE 2025     | LLM4GV: An LLM-Based Flexible Performance-Aware Framework for GEMM Verilog Generation |     
-          |                                                              |      | DATE 2025     | Improving LLM-Based Verilog Code Generation with Data Augmentation and RL |               
-          | [VToT](https://ieeexplore.ieee.org/document/10993029)        |      | DATE 2025     |VToT: Automatic Verilog Generation via LLMs with Tree of Thoughts Prompting|
+2025-5-21| [LLM4GV](https://ieeexplore.ieee.org/document/10992751)      |      | DATE 2025     | LLM4GV: An LLM-Based Flexible Performance-Aware Framework for GEMM Verilog Generation |     
+2025-5-21| [Data Augmentation and RL](https://ieeexplore.ieee.org/abstract/document/10992897)   |      | DATE 2025     | Improving LLM-Based Verilog Code Generation with Data Augmentation and RL |       
+2025-5-21| [VToT](https://ieeexplore.ieee.org/document/10993029)        |      | DATE 2025     |VToT: Automatic Verilog Generation via LLMs with Tree of Thoughts Prompting|
 |[MetRex](https://dl.acm.org/doi/pdf/10.1145/3658617.3697625)||ASP- DAC 2025|MetRex: A Benchmark for Verilog Code Metric Reasoning Using LLMs|[MetRex](https://github.com/scale-lab/MetRex)
 2026-02-10|[ACE-RTL](https://arxiv.org/abs/2602.10218)||arXiv|ACE-RTL: When Agentic Context Evolution Meets RTL-Specialized LLMs|
 2025-11-25|[QiMeng-CRUX](https://arxiv.org/abs/2511.20099)||AAAI 2026|QiMeng-CRUX: Narrowing the Gap Between Natural Language and Verilog via Core Refined Understanding eXpression for Circuit Design|[QiMeng-CRUX](https://github.com/Taskii-Lei/QiMeng-CRUX-V)
