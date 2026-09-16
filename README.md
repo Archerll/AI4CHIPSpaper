@@ -182,14 +182,10 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 2024-8-15| [Verilogcoder](https://arxiv.org/pdf/2408.08927)             | AAAI 2025    | Verilogcoder: Autonomous verilog coding agents with graph-based planning and abstract syntax tree (ast)-based waveform tracing tool | [VerilogCoder](https://github.com/NVlabs/VerilogCoder) 
  2024-10-01 | [llmrag](https://agra.informatik.uni-bremen.de/doc/konf/LAD2024_KQ.pdf) | LAD 2025     | From bugs to fixes: Hdl bug identification and patching using llms and rag |
 2024-10-15|[FVEval](https://arxiv.org/pdf/2410.23299)|DATE 2025|Fveval: Understanding language model capabilities in formal verification of digital hardware|[FVEval](https://github.com/NVlabs/FVEval)
+2024-11-13|[CorrectBench](https://ieeexplore.ieee.org/document/10992873)|DATE 2025|CorrectBench: Automatic Testbench Generation with Functional Self-Correction using LLMs for HDL Design|[CorrectBench](https://github.com/AutoBench/CorrectBench)
 2024-11-25|[UVLLM](https://arxiv.org/pdf/2411.16238)|arxiv|Uvllm: An automated universal rtl verification framework using llms.|
 2024-05-29||VTS 2024|Domain-adapted llms for vlsi design and verification: A case study on formal verification|
 2025-06-13|[PRO-V](https://arxiv.org/pdf/2506.12200)||PRO-V: An Efficient Program Generation Multi-Agent System for Automatic RTL Verification|
-|[CorrectBench](https://ieeexplore.ieee.org/document/10992873)|DATE 2025|CorrectBench: Automatic Testbench Generation with Functional Self-Correction using LLMs for HDL Design|[CorrectBench](https://github.com/AutoBench/CorrectBench)
-||||
-
-
-
 2026-05-08|[CktFormalizer](https://arxiv.org/abs/2605.07782)|arXiv|CktFormalizer: Autoformalization of Natural Language into Circuit Representations|
 2026-04-10|[AgileAssert](https://arxiv.org/abs/2604.08932)|arXiv|From Indiscriminate to Targeted: Functionally Critical Signal-Driven Assertion Generation using LLMs for Efficient RTL Verification|
 2026-03-15|[CodeV-SVA](https://arxiv.org/abs/2603.14239)|DAC 2026|QiMeng-CodeV-SVA: Training Specialized LLMs for Hardware Assertion Generation via RTL-Grounded Bidirectional Data Synthesis|[CodeV-SVA](https://github.com/wyt2000/CodeV-SVA)
@@ -221,9 +217,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 2023-11-26|Netlist Whisperer|ASHES 2023|Netlist whisperer: Ai and nlp fight circuit leakage!|
 2024-05|[SecRT-LLM](https://www.researchgate.net/profile/Dipayan-Saha/publication/381234667_Empowering_Hardware_Security_with_LLM_The_Development_of_a_Vulnerable_Hardware_Database/links/675936c2138b414414d56fcb/Empowering-Hardware-Security-with-LLM-The-Development-of-a-Vulnerable-Hardware-Database.pdf)|HOST 2024|Empowering hardware security with llm: The development of a vulnerable hardware database|
 2024-05|[Self-HWDebug](https://arxiv.org/pdf/2405.12347)|ISVLSI 2024|Self-hwdebug: Automation of llm self-instructing for hardware security verification|
- 2024-10-01 | [llmrag](https://agra.informatik.uni-bremen.de/doc/konf/LAD2024_KQ.pdf) | LAD 2025    | From bugs to fixes: Hdl bug identification and patching using llms and rag |
-  | [RTL-Breaker](https://ieeexplore.ieee.org/document/10993260) | DATE 2025 | RTL-Breaker: Assessing the Security of LLMs Against Backdoor Attacks on HDL Code Generation |
-
+2024-10-01 | [llmrag](https://agra.informatik.uni-bremen.de/doc/konf/LAD2024_KQ.pdf) | LAD 2025    | From bugs to fixes: Hdl bug identification and patching using llms and rag |
+2024-11-26| [RTL-Breaker](https://ieeexplore.ieee.org/document/10993260) | DATE 2025 | RTL-Breaker: Assessing the Security of LLMs Against Backdoor Attacks on HDL Code Generation |
 2025-01-05|[RTLMarker](https://arxiv.org/abs/2501.02446)|ASP-DAC 2025|RTLMarker: Protecting LLM-Generated RTL Copyright via a Hardware Watermarking Framework|
 ​	</details>
 
@@ -235,7 +230,6 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 2023-07-17|[QGAS](https://arxiv.org/pdf/2307.08191)|arxiv|Unleashing the potential of LLMs for quantum computing: A study in quantum architecture design|
 2023-9-19|[GPT4AIGChip](https://arxiv.org/pdf/2309.10730)🔥|ICCAD 2023|GPT4AIGChip: Towards next-generation AI accelerator design automation via large language models.|
 2024-1-24|[SpecLLM](https://arxiv.org/pdf/2401.13266)|arxiv|SpecLLM: Exploring generation and review of vlsi design specification with large language model.|
-
 2025-10-26|MultiModel-DSE|ICCAD 2025|LLM-Augmented Multi-Modal Fusion for SoC Design Space Exploration|
 2026-02-06|[Design Conductor (DC)](https://arxiv.org/abs/2603.08716)|arXiv|Design Conductor: An agent autonomously builds a 1.5 GHz Linux-capable RISC-V CPU|
 2025-08-08|[MAHL](https://arxiv.org/abs/2508.14053)|ICCAD 2025|MAHL: Multi-Agent LLM-Guided Hierarchical Chiplet Design with Adaptive Debugging|
@@ -281,13 +275,12 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
 2023-08| [ChatEDA](https://arxiv.org/pdf/2308.10204)            | MLCAD 2023 | Chateda: A large language model powered autonomous agent for eda | [ChatEDAv1](https://github.com/wuhy68/ChatEDAv1) 
- 2024-07    | RAG-[EDA](https://arxiv.org/pdf/2407.15353)                  | ICCAD 2024 | Customized retrieval augmented generation and benchmarking for eda tool documentation qa | [RAG-EDA](https://github.com/lesliepy99/RAG-EDA) 
- 2024-12    | [ChipAlign](https://arxiv.org/pdf/2412.19819?)         | arxiv | Chipalign: Instruction alignment in large language models for chip design via geodesic interpolation |
- 2024-05-24 | [LLM4Scldof](https://arxiv.org/pdf/2406.06549?)              | LAD 2024   | Large language model (llm) for standard cell layout design optimization |
- 2024-07-15 | [FabGPT](https://arxiv.org/pdf/2407.10810?)                  | ICCAD 2024 | Fabgpt: An efficient large multimodal model for complex wafer defect knowledge queries |
- 2024-08-24 | two-[stage](https://ojs.aaai.org/index.php/AAAI/article/view/34479) | AAAI 2024  | Intelligent opc engineer assistant for semiconductor manufacturing |
- 2024-11-28 | DRC-[Coder](https://dl.acm.org/doi/pdf/10.1145/3698364.3705347) | arxiv      | Drc-coder: Automated drc checker code generation using llm autonomous agent |
-
+2024-07    | RAG-[EDA](https://arxiv.org/pdf/2407.15353)                  | ICCAD 2024 | Customized retrieval augmented generation and benchmarking for eda tool documentation qa | [RAG-EDA](https://github.com/lesliepy99/RAG-EDA) 
+2024-12    | [ChipAlign](https://arxiv.org/pdf/2412.19819?)         | arxiv | Chipalign: Instruction alignment in large language models for chip design via geodesic interpolation |
+2024-05-24 | [LLM4Scldof](https://arxiv.org/pdf/2406.06549?)              | LAD 2024   | Large language model (llm) for standard cell layout design optimization |
+2024-07-15 | [FabGPT](https://arxiv.org/pdf/2407.10810?)                  | ICCAD 2024 | Fabgpt: An efficient large multimodal model for complex wafer defect knowledge queries |
+2024-08-24 | two-[stage](https://ojs.aaai.org/index.php/AAAI/article/view/34479) | AAAI 2024  | Intelligent opc engineer assistant for semiconductor manufacturing |
+2024-11-28 | DRC-[Coder](https://dl.acm.org/doi/pdf/10.1145/3698364.3705347) | arxiv      | Drc-coder: Automated drc checker code generation using llm autonomous agent |
 2025-10-18|EDA-Copilot|ACM TODAES 2025|EDA-Copilot: A RAG-Powered Intelligent Assistant for EDA Tools|
 2025-02-15|[EDAid](https://arxiv.org/abs/2502.10857)|NAACL 2025|Divergent Thoughts toward One Goal: LLM-based Multi-Agent Collaboration System for Electronic Design Automation|
 2026-04-28|[EIM](https://arxiv.org/abs/2604.25191)|DAC 2026|How Can Reinforcement Learning Achieve Expert-level Placement?|
