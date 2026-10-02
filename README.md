@@ -238,6 +238,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 2025-08-08|[MAHL](https://arxiv.org/abs/2508.14053)|ICCAD 2025|MAHL: Multi-Agent LLM-Guided Hierarchical Chiplet Design with Adaptive Debugging|
 2025-10-26|MultiModel-DSE|ICCAD 2025|LLM-Augmented Multi-Modal Fusion for SoC Design Space Exploration|
 2026-02-06|[Design Conductor (DC)](https://arxiv.org/abs/2603.08716)|arXiv|Design Conductor: An agent autonomously builds a 1.5 GHz Linux-capable RISC-V CPU|
+2026-03|[CacheMind](https://research.ece.ncsu.edu/brainspec/wp-content/uploads/sites/35/2026/06/cachemind.pdf)|ASPLOS 2026|CacheMind: From Miss Rates to Why — Natural-Language, Trace-Grounded Reasoning for Cache Replacement|[CacheMind](https://github.com/kaushal1803/cachemind)
 2026-07-08|[ThermoDSE](https://arxiv.org/abs/2607.07096)|arXiv|ThermoDSE: A Thermal-Aware and Comprehensive Design Space Exploration for Chiplet-Based DNN Accelerators|
 2026-08-10|[FSGen](https://arxiv.org/abs/2608.09252)|DAC 2026|FSGen: Agile Fused and Sparse Accelerator Generator with Accurate Power Model for LLM Applications|[FSGen](https://github.com/hkust-zhiyao/FSGen)
 2026-08-26|[Redwood](https://arxiv.org/abs/2608.26418)|arXiv|Redwood: A Frontier AI Accelerator Designed, Verified, and Deployed from Scratch in 2 Weeks by AI|
